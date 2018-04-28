@@ -1,0 +1,19 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "HideCoords",
+    "description":
+      "A simple resource pack that hides coordinates, even if they are turned on in the world settings (by TheDragonRing).",
+    "uuid": "4d85e3d1-4608-4aba-bea5-0c3f05b78982",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description":
+        "A simple resource pack that hides coordinates, even if they are turned on in the world settings (by TheDragonRing).",
+      "type": "resources",
+      "uuid": "ec733fd4-7c0b-4488-b002-b0907f72a006",
+      "version": [1, 0, 0]
+    }
+  ]
+}
